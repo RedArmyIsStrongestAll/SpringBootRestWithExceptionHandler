@@ -6,7 +6,7 @@ target/
 
 mvnw
 mvnw.cmd
-src\main\java\ru\petrov\fullRestAPI\repository\Zxc.java
+/src/test
 
 
 ### STS ###
