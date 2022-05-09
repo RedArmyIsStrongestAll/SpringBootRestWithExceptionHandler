@@ -1,13 +1,11 @@
+mvnw
+mvnw.cmd
+/src/test
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-
-mvnw
-mvnw.cmd
-/src/test
-
 
 ### STS ###
 .apt_generated
