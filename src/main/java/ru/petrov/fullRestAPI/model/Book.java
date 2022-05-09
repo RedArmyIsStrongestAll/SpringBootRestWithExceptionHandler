@@ -7,10 +7,10 @@ import java.util.Date;
 @AllArgsConstructor
 @Data
 public class Book {
-    final long id;
-    String title;
-    String author;
-    Date datePublish;
+    private final long id;
+    private String title;
+    private String author;
+    private Date datePublish;
 
     public Book (long id, Book inputBook){
         this.id = id;
