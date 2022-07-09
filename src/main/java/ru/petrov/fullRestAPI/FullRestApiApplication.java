@@ -15,6 +15,7 @@ public class FullRestApiApplication {
 	}
 
 	public static void main(String[] args) {
+		String testMaster;
 		SpringApplication.run(FullRestApiApplication.class, args);
 	}
 
